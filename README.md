@@ -24,7 +24,6 @@ Such analysis helps in **urban planning, resource optimization, and improving qu
 ## 🚀 How to Run
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/ritikakeshtwal/smart-city-sensor
 
 cd smart-city-sensor
 
@@ -47,5 +46,4 @@ Save outputs as .png images
 
 
 
-git clone https://github.com/ritikakeshtwal/smart-city-sensor.git
-cd smart-city-sensor
+
